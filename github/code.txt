@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NBKR Institute of Science & Technology</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #f4f4f4;
+        }
+        header {
+            background: #003366;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background: #0055aa;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 15px;
+        }
+        .content {
+            text-align: center;
+            padding: 30px;
+        }
+        img {
+            width: 80%;
+            max-width: 700px;
+        }
+        footer {
+            background: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>NBKR Institute of Science & Technology</h1>
+    <p>Autonomous | NAAC 'A',A+ Grade</p>
+</header>
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Admissions</a>
+    <a href="#">Academics</a>
+    <a href="#">Contact</a>
+</nav>
+<div class="content">
+    <h2>Welcome to NBKRIST</h2>
+    <img src="https://content.jdmagicbox.com/comp/nellore/y2/9999px861.x861.170928094224.d4y2/catalogue/nbkr-institute-of-science-and-technology-vidyanagar-nellore-universities-sdnfw6fsbz.jpg" alt="College Image">
+    <p>
+        NBKR Institute of Science & Technology is one of the leading engineering
+        colleges offering quality education and excellent campus facilities.
+    </p>
+</div>
+<footer>
+    © 2026 NBKR Institute of Science & Technology
+</footer>
+</body>
+</html>
